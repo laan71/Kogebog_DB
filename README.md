@@ -1,6 +1,8 @@
 # Kogebog_DB
 Kogebogs database lavet i SQLite
 
+Billeder af ER diagram samt selve tabellerne
+
 ![2021-02-05 (82)](https://user-images.githubusercontent.com/54774020/107099700-add43e00-6812-11eb-9780-acecdfbd7de5.png)
 
 ![2021-02-05 (83)](https://user-images.githubusercontent.com/54774020/107099719-b4fb4c00-6812-11eb-9783-03c61de86563.png)
